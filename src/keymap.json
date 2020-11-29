@@ -1,0 +1,386 @@
+[
+  {
+    "row": 0,
+    "side": "left",
+    "key": "º",
+    "shiftKey": "ª",
+    "altKey": "\\",
+    "level": 20
+  },
+  {
+    "row": 0,
+    "side": "left",
+    "key": "1",
+    "shiftKey": "!",
+    "altKey": "|",
+    "level": 19
+  },
+  {
+    "row": 0,
+    "side": "left",
+    "key": "2",
+    "shiftKey": "\"",
+    "altKey": "@",
+    "level": 19
+  },
+  {
+    "row": 0,
+    "side": "left",
+    "key": "3",
+    "shiftKey": "·",
+    "altKey": "#",
+    "level": 19
+  },
+  {
+    "row": 0,
+    "side": "left",
+    "key": "4",
+    "shiftKey": "$",
+    "altKey": "~",
+    "level": 19
+  },
+  {
+    "row": 0,
+    "side": "left",
+    "key": "5",
+    "shiftKey": "%",
+    "altKey": "€",
+    "level": 19
+  },
+  {
+    "row": 0,
+    "side": "left",
+    "key": "6",
+    "shiftKey": "&",
+    "altKey": "¬",
+    "level": 19
+  },
+  {
+    "row": 0,
+    "side": "right",
+    "key": "7",
+    "shiftKey": "/",
+    "altKey": "",
+    "level": 19
+  },
+  {
+    "row": 0,
+    "side": "right",
+    "key": "8",
+    "shiftKey": "(",
+    "altKey": "",
+    "level": 19
+  },
+  {
+    "row": 0,
+    "side": "right",
+    "key": "9",
+    "shiftKey": ")",
+    "altKey": "",
+    "level": 19
+  },
+  {
+    "row": 0,
+    "side": "right",
+    "key": "0",
+    "shiftKey": "=",
+    "altKey": "",
+    "level": 19
+  },
+  {
+    "row": 0,
+    "side": "right",
+    "key": "'",
+    "shiftKey": "?",
+    "altKey": "",
+    "level": 19
+  },
+  {
+    "row": 0,
+    "side": "right",
+    "key": "¡",
+    "shiftKey": "¿",
+    "altKey": "",
+    "level": 19
+  },
+  {
+    "row": 1,
+    "side": "left",
+    "key": "q",
+    "shiftKey": "Q",
+    "altKey": "",
+    "level": 20
+  },
+  {
+    "row": 1,
+    "side": "left",
+    "key": "w",
+    "shiftKey": "W",
+    "altKey": "",
+    "level": 19
+  },
+  {
+    "row": 1,
+    "side": "left",
+    "key": "e",
+    "shiftKey": "e",
+    "altKey": "€",
+    "level": 19
+  },
+  {
+    "row": 1,
+    "side": "left",
+    "key": "r",
+    "shiftKey": "R",
+    "altKey": "",
+    "level": 19
+  },
+  {
+    "row": 1,
+    "side": "left",
+    "key": "t",
+    "shiftKey": "T",
+    "altKey": "",
+    "level": 19
+  },
+  {
+    "row": 1,
+    "side": "right",
+    "key": "y",
+    "shiftKey": "Y",
+    "altKey": "",
+    "level": 19
+  },
+  {
+    "row": 1,
+    "side": "right",
+    "key": "u",
+    "shiftKey": "U",
+    "altKey": "",
+    "level": 19
+  },
+  {
+    "row": 1,
+    "side": "right",
+    "key": "i",
+    "shiftKey": "I",
+    "altKey": "",
+    "level": 19
+  },
+  {
+    "row": 1,
+    "side": "right",
+    "key": "o",
+    "shiftKey": "O",
+    "altKey": "",
+    "level": 19
+  },
+  {
+    "row": 1,
+    "side": "right",
+    "key": "p",
+    "shiftKey": "P",
+    "altKey": "",
+    "level": 19
+  },
+  {
+    "row": 1,
+    "side": "right",
+    "key": "`",
+    "shiftKey": "^",
+    "altKey": "[",
+    "level": 19
+  },
+  {
+    "row": 1,
+    "side": "right",
+    "key": "+",
+    "shiftKey": "*",
+    "altKey": "]",
+    "level": 19
+  },
+  {
+    "row": 2,
+    "side": "left",
+    "key": "a",
+    "shiftKey": "A",
+    "altKey": "",
+    "level": 20
+  },
+  {
+    "row": 2,
+    "side": "left",
+    "key": "s",
+    "shiftKey": "S",
+    "altKey": "",
+    "level": 19
+  },
+  {
+    "row": 2,
+    "side": "left",
+    "key": "d",
+    "shiftKey": "D",
+    "altKey": "",
+    "level": 19
+  },
+  {
+    "row": 2,
+    "side": "left",
+    "key": "f",
+    "shiftKey": "F",
+    "altKey": "",
+    "level": 19
+  },
+  {
+    "row": 2,
+    "side": "left",
+    "key": "g",
+    "shiftKey": "G",
+    "altKey": "",
+    "level": 19
+  },
+  {
+    "row": 2,
+    "side": "right",
+    "key": "h",
+    "shiftKey": "h",
+    "altKey": "",
+    "level": 19
+  },
+  {
+    "row": 2,
+    "side": "right",
+    "key": "j",
+    "shiftKey": "J",
+    "altKey": "",
+    "level": 19
+  },
+  {
+    "row": 2,
+    "side": "right",
+    "key": "k",
+    "shiftKey": "K",
+    "altKey": "",
+    "level": 19
+  },
+  {
+    "row": 2,
+    "side": "right",
+    "key": "l",
+    "shiftKey": "L",
+    "altKey": "",
+    "level": 19
+  },
+  {
+    "row": 2,
+    "side": "right",
+    "key": "ñ",
+    "shiftKey": "Ñ",
+    "altKey": "",
+    "level": 19
+  },
+  {
+    "row": 2,
+    "side": "right",
+    "key": "´",
+    "shiftKey": "¨",
+    "altKey": "{",
+    "level": 19
+  },
+  {
+    "row": 2,
+    "side": "right",
+    "key": "ç",
+    "shiftKey": "Ç",
+    "altKey": "}",
+    "level": 19
+  },
+  {
+    "row": 3,
+    "side": "left",
+    "key": "<",
+    "shiftKey": ">",
+    "altKey": "",
+    "level": 20
+  },
+  {
+    "row": 3,
+    "side": "left",
+    "key": "z",
+    "shiftKey": "Z",
+    "altKey": "",
+    "level": 19
+  },
+  {
+    "row": 3,
+    "side": "left",
+    "key": "x",
+    "shiftKey": "X",
+    "altKey": "",
+    "level": 19
+  },
+  {
+    "row": 3,
+    "side": "left",
+    "key": "c",
+    "shiftKey": "C",
+    "altKey": "",
+    "level": 19
+  },
+  {
+    "row": 3,
+    "side": "left",
+    "key": "v",
+    "shiftKey": "V",
+    "altKey": "",
+    "level": 19
+  },
+  {
+    "row": 3,
+    "side": "left",
+    "key": "b",
+    "shiftKey": "B",
+    "altKey": "",
+    "level": 19
+  },
+  {
+    "row": 3,
+    "side": "right",
+    "key": "n",
+    "shiftKey": "N",
+    "altKey": "",
+    "level": 19
+  },
+  {
+    "row": 3,
+    "side": "right",
+    "key": "m",
+    "shiftKey": "M",
+    "altKey": "",
+    "level": 19
+  },
+  {
+    "row": 3,
+    "side": "right",
+    "key": ",",
+    "shiftKey": ";",
+    "altKey": "",
+    "level": 19
+  },
+  {
+    "row": 3,
+    "side": "right",
+    "key": ".",
+    "shiftKey": ":",
+    "altKey": "",
+    "level": 19
+  },
+  {
+    "row": 3,
+    "side": "right",
+    "key": "-",
+    "shiftKey": "_",
+    "altKey": "",
+    "level": 19
+  }
+]
