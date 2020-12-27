@@ -1,25 +1,27 @@
 import styled from "styled-components";
-const SCkeyCap = styled.div`
-  border: ${(props) =>
-    props.width ? "1px solid transparent" : "1px solid rgb(40, 40, 40)"};
-  border-radius: 5px;
+const SCkeyCap = styled.div `
+  border-radius: 0.2vw;
   display: flex;
   flex-wrap: wrap;
-  width: ${(props) => (props.width ? `${props.width}vw` : "2vw")};
+  width: ${(props) => props.width};
   height: 2vw;
-  background-color: ${(props) =>
-    props.width ? "transparent" : "rgb(40, 40, 40)"};
-  box-shadow: ${(props) =>
-    props.width
-      ? "0 0 0 0.25vw rgba(100, 100, 100,0)"
-      : "0 0 0 0.25vw rgba(100, 100, 100,1)"};
-  margin: 0.25vw;
+  background-color: rgb(250, 250, 250);
+  -moz-box-shadow: inset 0 -0.05vw 0 0.1vw #000000;
+  -webkit-box-shadow: inset 0 -0.05vw 0 0.1vw #000000;
+  box-shadow: inset 0 -0.05vw 0 0.1vw #000000;
 `;
-const SCcharacter = styled.div`
+const SCcharacter = styled.div `
   flex: 1 1 50%;
   text-align: center;
   line-height: 1vw;
   font-size: 0.7vw;
-  color: white;
+  color: rgb(40, 40, 40);
 `;
-export { SCkeyCap, SCcharacter };
+const SCFunctionKey = styled.div `
+  flex: 1 1 100%;
+  text-align: center;
+  line-height: 2vw;
+  font-size: 1.4vw;
+  color: rgb(40, 40, 40);
+`;
+export { SCkeyCap, SCcharacter, SCFunctionKey };
