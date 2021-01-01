@@ -21,8 +21,13 @@ const SCcharacter = styled.div `
 const SCFunctionKey = styled.div `
   flex: 1 1 100%;
   text-align: center;
-  line-height: .7vw;
-  font-size: .7vw;
+  line-height: 1.5vw;
+  font-size:1.5vw;
   color: rgb(40, 40, 40);
+  font-weight:bolder;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  text-transform:uppercase;
 `;
 export { SCkeyCap, SCcharacter, SCFunctionKey };

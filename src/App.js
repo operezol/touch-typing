@@ -5,6 +5,7 @@ const App = () => {
   const [keycode, setKeycode] = useState("Press a key");
 
   const logKey = (e) => {
+    e.preventDefault();
     setKey(e.key);
     setKeycode(e.keyCode)
   };
