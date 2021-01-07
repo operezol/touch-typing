@@ -1,7 +1,7 @@
 const breakCamelCase = (strings) => {
     let stringOutput;
     let i;
-    if (strings.length>2) {
+    if (strings.length>3) {
         stringOutput='<span style="font-size:.7vw;line-height:.7vw">'
         stringOutput+=strings[0];
         for (let index = 1; index < strings.length; index++) {
