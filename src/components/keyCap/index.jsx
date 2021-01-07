@@ -11,7 +11,7 @@ const KeyCap = ({ keycap }) => {
   return (
     <SCkeyCap width={keycap.width}>
       {
-        keycap.shiftKey && keycap.altKey ?
+        keycap.shiftKey || keycap.altKey ?
         (
         <>
         <SCcharacter>{keycap.key}</SCcharacter>

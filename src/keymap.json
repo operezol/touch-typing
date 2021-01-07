@@ -1,546 +1,866 @@
 [
   {
     "row": 0,
-    "width":4,
-    "key": "AudioVolumeDown",
+    "width": 4,
+    "key": "",
     "shiftKey": "",
     "altKey": "",
-    "level":0
+    "level": 0
   },
   {
     "row": 0,
-    "width":4,
-    "key": "AudioVolumeUp",
+    "width": 4,
+    "key": "",
     "shiftKey": "",
     "altKey": "",
-    "level":0
+    "level": 0
   },
   {
     "row": 0,
-    "width":4,
-    "key": "Escape",
+    "width": 4,
+    "key": "",
     "shiftKey": "",
     "altKey": "",
-    "level":0
+    "level": 0
   },
   {
     "row": 0,
-    "width":4,
-    "key": "F1",
+    "width": 4,
+    "key": "",
     "shiftKey": "",
     "altKey": "",
-    "level":0
+    "level": 0
   },
   {
     "row": 0,
-    "width":4,
-    "key": "F2",
+    "width": 4,
+    "key": "",
     "shiftKey": "",
     "altKey": "",
-    "level":0
+    "level": 0
   },
   {
     "row": 0,
-    "width":4,
-    "key": "F3",
+    "width": 4,
+    "key": "",
     "shiftKey": "",
     "altKey": "",
-    "level":0
+    "level": 0
   },
   {
     "row": 0,
-    "width":4,
-    "key": "F4",
+    "width": 4,
+    "key": "",
     "shiftKey": "",
     "altKey": "",
-    "level":0
+    "level": 0
   },
   {
     "row": 0,
-    "width":4,
-    "key": "F5",
+    "width": 4,
+    "key": "",
     "shiftKey": "",
     "altKey": "",
-    "level":0
+    "level": 0
   },
   {
     "row": 0,
-    "width":4,
-    "key": "F6",
+    "width": 4,
+    "key": "",
     "shiftKey": "",
     "altKey": "",
-    "level":0
+    "level": 0
   },
   {
     "row": 0,
-    "width":4,
-    "key": "F7",
+    "width": 4,
+    "key": "",
     "shiftKey": "",
     "altKey": "",
-    "level":0
+    "level": 0
   },
   {
     "row": 0,
-    "width":4,
-    "key": "F8",
+    "width": 4,
+    "key": "",
     "shiftKey": "",
     "altKey": "",
-    "level":0
+    "level": 0
   },
   {
     "row": 0,
-    "width":4,
-    "key": "F9",
+    "width": 4,
+    "key": "",
     "shiftKey": "",
     "altKey": "",
-    "level":0
+    "level": 0
   },
   {
     "row": 0,
-    "width":4,
-    "key": "F10",
+    "width": 4,
+    "key": "",
     "shiftKey": "",
     "altKey": "",
-    "level":0
+    "level": 0
   },
   {
     "row": 0,
-    "width":4,
-    "key": "F11",
+    "width": 4,
+    "key": "",
     "shiftKey": "",
     "altKey": "",
-    "level":0
+    "level": 0
   },
   {
     "row": 0,
-    "width":4,
-    "key": "F12",
+    "width": 4,
+    "key": "",
     "shiftKey": "",
     "altKey": "",
-    "level":0
+    "level": 0
   },
   {
     "row": 0,
-    "width":4,
-    "key": "PrintScreen ",
+    "width": 4,
+    "key": "",
     "shiftKey": "",
     "altKey": "",
-    "level":0
+    "level": 0
   },
   {
     "row": 0,
-    "width":4,
-    "key": "ScrollLock",
+    "width": 4,
+    "key": "",
     "shiftKey": "",
     "altKey": "",
-    "level":0
+    "level": 0
   },
   {
     "row": 0,
-    "width":4,
-    "key": "Pause",
+    "width": 4,
+    "key": "",
     "shiftKey": "",
     "altKey": "",
-    "level":0
+    "level": 0
   },
   {
     "row": 1,
-    "width":4,
-    "key": "*",
+    "width": 4,
+    "key": "",
     "shiftKey": "",
     "altKey": "",
-    "level":0
+    "level": 0
   },
   {
     "row": 1,
-    "width":4,
-    "key": "/",
+    "width": 4,
+    "key": "",
     "shiftKey": "",
     "altKey": "",
-    "level":0
+    "level": 0
   },
   {
     "row": 1,
-    "width":4,
+    "width": 4,
     "key": "º",
     "shiftKey": "ª",
     "altKey": "\\",
-    "level":0
+    "level": 8
   },
   {
     "row": 1,
-    "width":4,
+    "width": 4,
     "key": "1",
     "shiftKey": "!",
     "altKey": "|",
-    "level":0
+    "level": 7
   },
   {
     "row": 1,
-    "width":4,
+    "width": 4,
     "key": "2",
     "shiftKey": "\"",
     "altKey": "@",
-    "level":0
+    "level": 6
   },
   {
     "row": 1,
-    "width":4,
+    "width": 4,
     "key": "3",
     "shiftKey": "·",
     "altKey": "#",
-    "level":0
+    "level": 5
   },
   {
     "row": 1,
-    "width":4,
+    "width": 4,
     "key": "4",
     "shiftKey": "$",
     "altKey": "~",
-    "level":0
+    "level": 4
   },
   {
     "row": 1,
-    "width":4,
+    "width": 4,
     "key": "5",
     "shiftKey": "%",
     "altKey": "€",
-    "level":0
+    "level": 3
   },
   {
     "row": 1,
-    "width":4,
+    "width": 4,
     "key": "6",
     "shiftKey": "&",
     "altKey": "¬",
-    "level":0
+    "level": 4
   },
   {
     "row": 1,
-    "width":4,
+    "width": 4,
     "key": "7",
     "shiftKey": "/",
     "altKey": "",
-    "level":0
+    "level": 4
   },
   {
     "row": 1,
-    "width":4,
+    "width": 4,
     "key": "8",
     "shiftKey": "(",
     "altKey": "",
-    "level":0
+    "level": 5
   },
   {
     "row": 1,
-    "width":4,
+    "width": 4,
     "key": "9",
     "shiftKey": ")",
     "altKey": "",
-    "level":0
+    "level": 6
   },
   {
     "row": 1,
-    "width":4,
+    "width": 4,
     "key": "0",
     "shiftKey": "=",
     "altKey": "",
-    "level":0
+    "level": 7
   },
   {
     "row": 1,
-    "width":4,
+    "width": 4,
     "key": "'",
     "shiftKey": "?",
     "altKey": "",
-    "level":0
+    "level": 8
   },
   {
     "row": 1,
-    "width":4,
+    "width": 4,
     "key": "¡",
     "shiftKey": "¿",
     "altKey": "",
-    "level":0
+    "level": 9
+  },
+  {
+    "row": 1,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
+  },
+  {
+    "row": 1,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
+  },
+  {
+    "row": 1,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
   },
   {
     "row": 2,
-    "width":4,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
+  },
+  {
+    "row": 2,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
+  },
+  {
+    "row": 2,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
+  },
+  {
+    "row": 2,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
+  },
+  {
+    "row": 2,
+    "width": 4,
     "key": "q",
     "shiftKey": "Q",
     "altKey": "",
-    "level":0
+    "level": 5
   },
   {
     "row": 2,
-    "width":4,
+    "width": 4,
     "key": "w",
     "shiftKey": "W",
     "altKey": "",
-    "level":0
+    "level": 4
   },
   {
     "row": 2,
-    "width":4,
+    "width": 4,
     "key": "e",
-    "shiftKey": "e",
+    "shiftKey": "E",
     "altKey": "€",
-    "level":0
+    "level": 3
   },
   {
     "row": 2,
-    "width":4,
+    "width": 4,
     "key": "r",
     "shiftKey": "R",
     "altKey": "",
-    "level":0
+    "level": 2
   },
   {
     "row": 2,
-    "width":4,
+    "width": 4,
     "key": "t",
     "shiftKey": "T",
     "altKey": "",
-    "level":0
+    "level": 3
   },
   {
     "row": 2,
-    "width":4,
+    "width": 4,
     "key": "y",
     "shiftKey": "Y",
     "altKey": "",
-    "level":0
+    "level": 3
   },
   {
     "row": 2,
-    "width":4,
+    "width": 4,
     "key": "u",
     "shiftKey": "U",
     "altKey": "",
-    "level":0
+    "level": 2
   },
   {
     "row": 2,
-    "width":4,
+    "width": 4,
     "key": "i",
     "shiftKey": "I",
     "altKey": "",
-    "level":0
+    "level": 3
   },
   {
     "row": 2,
-    "width":4,
+    "width": 4,
     "key": "o",
     "shiftKey": "O",
     "altKey": "",
-    "level":0
+    "level": 4
   },
   {
     "row": 2,
-    "width":4,
+    "width": 4,
     "key": "p",
     "shiftKey": "P",
     "altKey": "",
-    "level":0
+    "level": 5
   },
   {
     "row": 2,
-    "width":4,
+    "width": 4,
     "key": "`",
     "shiftKey": "^",
     "altKey": "[",
-    "level":0
+    "level": 6
   },
   {
     "row": 2,
-    "width":4,
+    "width": 4,
     "key": "+",
     "shiftKey": "*",
     "altKey": "]",
-    "level":0
+    "level": 7
+  },
+  {
+    "row": 2,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
+  },
+  {
+    "row": 2,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
   },
   {
     "row": 3,
-    "width":4,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
+  },
+  {
+    "row": 3,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
+  },
+  {
+    "row": 3,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
+  },
+  {
+    "row": 3,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
+  },
+  {
+    "row": 3,
+    "width": 4,
     "key": "a",
     "shiftKey": "A",
     "altKey": "",
-    "level":0
+    "level": 4
   },
   {
     "row": 3,
-    "width":4,
+    "width": 4,
     "key": "s",
     "shiftKey": "S",
     "altKey": "",
-    "level":0
+    "level": 3
   },
   {
     "row": 3,
-    "width":4,
+    "width": 4,
     "key": "d",
     "shiftKey": "D",
     "altKey": "",
-    "level":0
+    "level": 3
   },
   {
     "row": 3,
-    "width":4,
+    "width": 4,
     "key": "f",
     "shiftKey": "F",
     "altKey": "",
-    "level":0
+    "level": 3
   },
   {
     "row": 3,
-    "width":4,
+    "width": 4,
     "key": "g",
     "shiftKey": "G",
     "altKey": "",
-    "level":0
+    "level": 2
   },
   {
     "row": 3,
-    "width":4,
+    "width": 4,
     "key": "h",
-    "shiftKey": "h",
+    "shiftKey": "H",
     "altKey": "",
-    "level":0
+    "level": 2
   },
   {
     "row": 3,
-    "width":4,
+    "width": 4,
     "key": "j",
     "shiftKey": "J",
     "altKey": "",
-    "level":0
+    "level": 1
   },
   {
     "row": 3,
-    "width":4,
+    "width": 4,
     "key": "k",
     "shiftKey": "K",
     "altKey": "",
-    "level":0
+    "level": 2
   },
   {
     "row": 3,
-    "width":4,
+    "width": 4,
     "key": "l",
     "shiftKey": "L",
     "altKey": "",
-    "level":0
+    "level": 3
   },
   {
     "row": 3,
-    "width":4,
+    "width": 4,
     "key": "ñ",
     "shiftKey": "Ñ",
     "altKey": "",
-    "level":0
+    "level": 4
   },
   {
     "row": 3,
-    "width":4,
+    "width": 4,
     "key": "´",
     "shiftKey": "¨",
     "altKey": "{",
-    "level":0
+    "level": 5
   },
   {
     "row": 3,
-    "width":4,
+    "width": 4,
     "key": "ç",
     "shiftKey": "Ç",
     "altKey": "}",
-    "level":0
+    "level": 6
   },
   {
-    "row": 4,
-    "width":4,
-    "key": "<",
-    "shiftKey": ">",
+    "row": 3,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
     "altKey": "",
-    "level":0
+    "level": 0
+  },
+  {
+    "row": 3,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
   },
   {
     "row": 4,
-    "width":4,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
+  },
+  {
+    "row": 4,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
+  },
+  {
+    "row": 4,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
+  },
+  {
+    "row": 4,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
+  },
+  {
+    "row": 4,
+    "width": 4,
     "key": "z",
     "shiftKey": "Z",
     "altKey": "",
-    "level":0
+    "level": 5
   },
   {
     "row": 4,
-    "width":4,
+    "width": 4,
     "key": "x",
     "shiftKey": "X",
     "altKey": "",
-    "level":0
+    "level": 4
   },
   {
     "row": 4,
-    "width":4,
+    "width": 4,
     "key": "c",
     "shiftKey": "C",
     "altKey": "",
-    "level":0
+    "level": 3
   },
   {
     "row": 4,
-    "width":4,
+    "width": 4,
     "key": "v",
     "shiftKey": "V",
     "altKey": "",
-    "level":0
+    "level": 2
   },
   {
     "row": 4,
-    "width":4,
+    "width": 4,
     "key": "b",
     "shiftKey": "B",
     "altKey": "",
-    "level":0
+    "level": 3
   },
   {
     "row": 4,
-    "width":4,
+    "width": 4,
     "key": "n",
     "shiftKey": "N",
     "altKey": "",
-    "level":0
+    "level": 3
   },
   {
     "row": 4,
-    "width":4,
+    "width": 4,
     "key": "m",
     "shiftKey": "M",
     "altKey": "",
-    "level":0
+    "level": 2
   },
   {
     "row": 4,
-    "width":4,
+    "width": 4,
     "key": ",",
     "shiftKey": ";",
     "altKey": "",
-    "level":0
+    "level": 3
   },
   {
     "row": 4,
-    "width":4,
+    "width": 4,
     "key": ".",
     "shiftKey": ":",
     "altKey": "",
-    "level":0
+    "level": 4
   },
   {
     "row": 4,
-    "width":4,
+    "width": 4,
     "key": "-",
     "shiftKey": "_",
     "altKey": "",
-    "level":0
+    "level": 5
+  },
+  {
+    "row": 4,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
+  },
+  {
+    "row": 4,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
+  },
+  {
+    "row": 4,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
+  },
+  {
+    "row": 4,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
+  },
+  {
+    "row": 5,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
+  },
+  {
+    "row": 5,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
+  },
+  {
+    "row": 5,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
+  },
+  {
+    "row": 5,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
+  },
+  {
+    "row": 5,
+    "width": 4,
+    "key": "<",
+    "shiftKey": ">",
+    "altKey": "",
+    "level": 6
+  },
+  {
+    "row": 5,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
+  },
+  {
+    "row": 5,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
+  },
+  {
+    "row": 5,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
+  },
+  {
+    "row": 5,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
+  },
+  {
+    "row": 5,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
+  },
+  {
+    "row": 5,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
+  },
+  {
+    "row": 5,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
+  },
+  {
+    "row": 5,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
+  },
+  {
+    "row": 5,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
+  },
+  {
+    "row": 5,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
+  },
+  {
+    "row": 5,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
+  },
+  {
+    "row": 5,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
+  },
+  {
+    "row": 5,
+    "width": 4,
+    "key": "",
+    "shiftKey": "",
+    "altKey": "",
+    "level": 0
   }
 ]

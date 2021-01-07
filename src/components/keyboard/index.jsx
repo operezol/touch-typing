@@ -27,6 +27,16 @@ const Keyboard = () => {
           <KeyCap keycap={keycap} key={keycap.key} />
         ))}
       </SCKeyboardRow>
+      <SCKeyboardRow>
+        {KEYMAP.filter((keycap) => keycap.row === 4).map((keycap) => (
+          <KeyCap keycap={keycap} key={keycap.key} />
+        ))}
+      </SCKeyboardRow>
+      <SCKeyboardRow>
+        {KEYMAP.filter((keycap) => keycap.row === 5).map((keycap) => (
+          <KeyCap keycap={keycap} key={keycap.key} />
+        ))}
+      </SCKeyboardRow>
     </SCKeyboard>
   );
 };
